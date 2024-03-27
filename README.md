@@ -1,2 +1,2 @@
 # Flask
-Basic Structure
+Basic Project Structure
